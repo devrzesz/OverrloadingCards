@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemCollectionLearning", "SystemCollectionLearning.csproj", "{58314FE7-09DC-4685-BD85-A93A3913BADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overrloading", "..\Overrloading\Overrloading.csproj", "{1D2E4E0B-8F07-40B4-8727-A37C4F550861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrloadingCards", "..\OverrloadingCards\OverrloadingCards.csproj", "{8C339D67-7863-4F3B-B982-30382369378F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58314FE7-09DC-4685-BD85-A93A3913BADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58314FE7-09DC-4685-BD85-A93A3913BADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58314FE7-09DC-4685-BD85-A93A3913BADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58314FE7-09DC-4685-BD85-A93A3913BADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2E4E0B-8F07-40B4-8727-A37C4F550861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2E4E0B-8F07-40B4-8727-A37C4F550861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2E4E0B-8F07-40B4-8727-A37C4F550861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2E4E0B-8F07-40B4-8727-A37C4F550861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C339D67-7863-4F3B-B982-30382369378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C339D67-7863-4F3B-B982-30382369378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C339D67-7863-4F3B-B982-30382369378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C339D67-7863-4F3B-B982-30382369378F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16340ED7-FE8D-454C-84B1-5F4354B6C62B}
+	EndGlobalSection
+EndGlobal
