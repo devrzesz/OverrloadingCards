@@ -1,0 +1,10 @@
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\bin\Debug\OverrloadingCards.exe.config
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\bin\Debug\OverrloadingCards.exe
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\bin\Debug\OverrloadingCards.pdb
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\obj\Debug\OverrloadingCards.csprojAssemblyReference.cache
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\obj\Debug\OverrloadingCards.Properties.Resources.resources
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\obj\Debug\OverrloadingCards.csproj.GenerateResource.cache
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\obj\Debug\OverrloadingCards.csproj.CoreCompileInputs.cache
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\obj\Debug\OverrloadingCards.exe
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\obj\Debug\OverrloadingCards.pdb
+C:\Users\a.rzeszowski\source\repos\OverrloadingCards\obj\Debug\OverrloadingCards.Form1.resources
